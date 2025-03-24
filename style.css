@@ -187,7 +187,7 @@ textarea {
     padding: calc(1.5rem - 2px) calc(5rem - 2px); }
 
 .sec-pad {
-  padding: 20px 0;/* Section padding utility */
+  padding: 20px 0; /* Section padding utility */
 }
   @media only screen and (max-width: 56.25em) {
     .sec-pad {
